@@ -90,7 +90,7 @@ To perform end-to-end data analysis, build an optimized regression model, and de
 # 12. Classes
 - Fire
 - Not Fire
-- 
+
 # 📊 Data Processing Steps
 - Data Collection
 - Exploratory Data Analysis (EDA)
